@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ali/rosbot_ws/install/open_manipulator_x_joy/include/**",
+        "/home/ali/rosbot_ws/install/mecanum_drive_controller/include/**",
+        "/home/ali/rosbot_ws/install/dynamixel_hardware_interface/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/ali/rosbot_ws/src/dynamixel_hardware_interface/include/**",
+        "/home/ali/rosbot_ws/src/husarion_controllers/mecanum_drive_controller/include/**",
+        "/home/ali/rosbot_ws/src/open_manipulator_x/open_manipulator_x_joy/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ros2",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}
